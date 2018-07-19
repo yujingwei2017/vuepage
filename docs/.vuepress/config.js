@@ -1,6 +1,7 @@
 module.exports = {
     title: 'XX的文档',
     description: 'Document library',
+    base: '/vuepage/',
     head: [
         ['link', { rel: 'icon', href: `/favicon.ico` }],
     ],
